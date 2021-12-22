@@ -1,2 +1,2 @@
 # Phaser.js_Dragon-flight
-Для запуска игры открать index.html через Live Server
+Для запуска игры открыть index.html через Live Server
